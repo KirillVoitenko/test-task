@@ -1,0 +1,16 @@
+.container {
+   display: flex;
+   position: absolute;
+   width: 100vw;
+   height: 100vh;
+   z-index: 3;
+   background-color:rgba(255, 255, 255, 0.9);
+}
+
+.circular {
+   margin: auto;
+}
+
+.fadeContainer {
+   display: flex;
+}

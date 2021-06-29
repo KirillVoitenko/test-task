@@ -1,0 +1,13 @@
+.userInfo {
+   flex-grow: 1;
+   margin: 0 20px;
+   text-align: end;
+}
+
+.headLogo {
+   background-image: url('../../../assets/images/logo.png');
+   background-position: left;
+   background-repeat: no-repeat;
+   background-size: contain;
+   padding: 10px 0 0 50px;
+}
